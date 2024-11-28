@@ -37,14 +37,12 @@ APIs & Tools - Dexcom API, Google Maps API, ..
 ----------------------
 Setup and Installation
 ----------------------
-Installations
 Install Node.js and npm
 
-Steps
 Clone the repository:
 git clone https://github.com/HarounHK/Simple-Steps.git
 
-cd simples-teps 
+cd simples-steps 
 npm run dev  
 Go to http://localhost:3000
 

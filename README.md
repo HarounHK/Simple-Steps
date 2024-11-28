@@ -23,7 +23,7 @@ Main Features
 Real-Time Blood Glucose Monitoring: Integration with the Dexcom API.
 Comprehensive Dashboard: View health metrics, trends, and recommendations.
 AI-Powered Chatbot: Personalized health advice based on user data.
-Fitness Tracking: Sync with Google Fit or Apple Health.
+Fitness Tracking: Sync with Google Fit or Apple Health
 Healthcare Locator: Google Maps integration to find nearby clinics and hospitals.
 Secure Authentication: Built with OAuth 2.0 for data safety.
 
